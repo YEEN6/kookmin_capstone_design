@@ -5,6 +5,7 @@ Team : VT
 
 ### 2. 소개 영상
 [![capton](http://img.youtube.com/vi/FlC69TKqo5M/0.jpg)](https://youtu.be/rQBzq_fyQV4 "capton")
+![video](video/first_presentation.mp4)
 
 ### 3. 팀 소개
 팀 명 VT는 _Vision Through_ 의 약자로 프로젝트 명의 약어를 사용하였다. 
