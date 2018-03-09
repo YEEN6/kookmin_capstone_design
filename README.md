@@ -15,7 +15,7 @@ Team : VT
 - 팀원 : 최 진영 (4학년), 이 소영 (4학년), 김 도은 (3학년), 왕 서 (4학년)
 
 2) 팀 사진
-![image](images/team.png =400X600)
+![image](images/team.png | width=400)
 3) SNS
 - 진 예진 : https://www.facebook.com/jinjinyejinjin (페이스북)
 - 최 진영 : https://www.facebook.com/profile.php?id=100006778664098 (페이스북)
